@@ -1,0 +1,7 @@
+{
+    "reportGeneralTypeIssues": "warning",
+    "reportOptionalMemberAccess":"warning",
+    "reportUnboundVariable":"none",
+    "reportDuplicateImport": "warning",
+    "reportImportCycles":"error"
+}
