@@ -3,3 +3,6 @@ uvicorn[standard]
 names
 flake8
 black
+requests
+ipykernel
+ipywidgets
